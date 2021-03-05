@@ -1,0 +1,14 @@
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\bin\Debug\myFitTimer.exe.config
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\bin\Debug\myFitTimer.exe
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\bin\Debug\myFitTimer.pdb
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\myFitTimer.csprojAssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\MainWindow.g.cs
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\App.g.cs
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\myFitTimer_MarkupCompile.cache
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\myFitTimer_MarkupCompile.lref
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\MainWindow.baml
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\myFitTimer.g.resources
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\myFitTimer.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\myFitTimer.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\myFitTimer.exe
+C:\Users\nicol\OneDrive\Desktop\Final Project\myFitTimer\myFitTimer\obj\Debug\myFitTimer.pdb

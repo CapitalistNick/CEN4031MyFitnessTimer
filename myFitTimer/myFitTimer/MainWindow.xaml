@@ -1,0 +1,33 @@
+<Window x:Class="myFitTimer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:myFitTimer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+	<Grid Margin="0,0,0,-31">
+		<Label x:Name="timerLabel" Content="00:00:00 " Margin="257,41,280,0" VerticalAlignment="Top"  Height="84" FontSize="60" FontWeight="Bold"/>
+		<Button x:Name="stopTimer"  Width="77" Height="77" Content="Stop" RenderTransformOrigin="-0.55,0.678" Margin="30,119,677,0" FontWeight="Bold" FontSize="15" Foreground="LightGray" VerticalAlignment="Top" Click="stopTimer_Click">
+			<Button.Template>
+				<ControlTemplate TargetType="{x:Type Button}">
+					<Grid>
+						<Ellipse Fill="DimGray"/>
+						<ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+					</Grid>
+				</ControlTemplate>
+			</Button.Template>
+		</Button>
+		<Button x:Name="startTimer"  Width="77" Height="77" Content="Start" Margin="677,119,30,0" FontWeight="Bold" FontSize="15" Foreground="LimeGreen" VerticalAlignment="Top" Click="startTimer_Click">
+			<Button.Template>
+				<ControlTemplate TargetType="{x:Type Button}">
+					<Grid>
+						<Ellipse Fill="DarkGreen"/>
+						<ContentPresenter Content="{TemplateBinding Content}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+					</Grid>
+				</ControlTemplate>
+			</Button.Template>
+		</Button>
+		<ListBox x:Name="elaspedTimeList" Margin="30,216,30,46" VerticalAlignment="Center" Height="188" />
+	</Grid>
+</Window>
